@@ -1,3 +1,3 @@
 ## GIT DEMO
 
-> some other content
+> some content
